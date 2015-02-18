@@ -5,6 +5,10 @@
 
 package dam_ed04_actividad;
 
+/**Clase que devuelve movimientos de una cuenta corriente
+ * @author Fany Craviotto
+ * @version 1.1
+ */
 
 public class CCuenta {
 
